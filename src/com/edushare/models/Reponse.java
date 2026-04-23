@@ -20,7 +20,10 @@ public class Reponse {
     // ETAPE 3 — CONSTRUCTEUR COMPLET
     // ==============================
     public Reponse(String contenu, Utilisateur auteur) {
-        // vide pour l'instant
+        this.id      = 1;
+        this.contenu = contenu;
+        this.auteur  = auteur;
+        this.votes   = 0;
     }
 
     // ==============================
@@ -28,21 +31,34 @@ public class Reponse {
     // ==============================
 
     public void ajouterVote() {
-        // TODO : à remplir étape 2
+        votes++;
+        System.out.println("Vote ajoute ! Total : " + votes);
     }
 
     public void afficherDetails() {
-        // TODO : à remplir étape 2
+        System.out.println("Reponse : " + contenu);
+        System.out.println("Auteur  : " + auteur.getNom());
+        System.out.println("Votes   : " + votes);
     }
 
     // ==============================
     // ETAPE 5 — GETTERS / SETTERS
     // ==============================
-    public int getId()                   { return id; }
-    public String getContenu()           { return contenu; }
-    public void setContenu(String c)     { this.contenu = c; }
-    public Utilisateur getAuteur()       { return auteur; }
-    public int getVotes()                { return votes; }
+    public int getId(){ 
+        return id; 
+    }
+    public String getContenu(){
+        return contenu; 
+    }
+    public void setContenu(String c){ 
+        this.contenu = c; 
+    }
+    public Utilisateur getAuteur(){ 
+        return auteur; 
+    }
+    public int getVotes(){ 
+        return votes; 
+    }
 
     // ==============================
     // ETAPE 6 — TOSTRING
