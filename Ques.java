@@ -1,5 +1,5 @@
-import java.util.List;
 import java.util.ArrayList; 
+import java.util.List;
 
 public class Ques{
     private String titre;
@@ -7,7 +7,7 @@ public class Ques{
     private Utilisateur auteur;
     private List<Reponse> reponses;
     
-    public Quest(String titre, String contenu, Utilisateur auteur,List<Reponse> reponses){
+    public Ques (String titre, String contenu, Utilisateur auteur, List<Reponse> reponses) {
         this.titre = titre;
         this.contenu = contenu;
         this.auteur = auteur;
