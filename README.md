@@ -8,3 +8,7 @@ Plateforme collaborative étudiants tunisiens
 [Lien Figma ecran 1 Membre 2 — Partage Documents](https://www.figma.com/make/5N0AH1JgCT6I15QHbisW1P/Document-Upload-Page?t=przRhPdDs1pwFLV0-1)
  ##  Maquettes Figma
 [Lien Figma ecran 2 Membre 2 — Partage Documents](https://www.figma.com/make/jdhtLA1QxLUvZbO9LWWeK2/Student-document-sharing-platform?t=Xghx5NT1qJia4YWb-1)
+ ##  Maquettes Figma
+ [lien figma Membre 5 ecran 1-créer et gérer signalements](https://www.figma.com/make/od8jv2AtMLMdaZQ2WegWvQ/Signaler-contenu-inappropri%C3%A9?t=YEvgomKLXxU0L7KH-20&fullscreen=1)
+  ##  Maquettes Figma
+  [lien figma Membre 5 ecran 2-créer et gérer signalements](https://www.figma.com/make/gXgUOoCXMUh8ydUjrxekJ7/Signalement-des-utilisateurs?t=YEvgomKLXxU0L7KH-20&fullscreen=1)
