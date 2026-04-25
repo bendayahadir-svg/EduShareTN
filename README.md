@@ -12,3 +12,7 @@ Plateforme collaborative étudiants tunisiens
  [lien figma Membre 5 ecran 1-créer et gérer signalements](https://www.figma.com/make/od8jv2AtMLMdaZQ2WegWvQ/Signaler-contenu-inappropri%C3%A9?t=YEvgomKLXxU0L7KH-20&fullscreen=1)
   ##  Maquettes Figma
   [lien figma Membre 5 ecran 2-créer et gérer signalements](https://www.figma.com/make/gXgUOoCXMUh8ydUjrxekJ7/Signalement-des-utilisateurs?t=YEvgomKLXxU0L7KH-20&fullscreen=1)
+## Maquettes Figma
+[lien Figma Membre 4 ecran 1 – Recherche ressources](https://www.figma.com/design/GP6SnpHOjjckxctbjAORX5/Untitled?node-id=2-2&t=XlmZGg63milLDm5R-1)
+## Maquettes Figma
+[lien Figma Membre 4 ecran 2 – Consultation ressource](https://www.figma.com/design/GP6SnpHOjjckxctbjAORX5/Untitled?node-id=53-87&t=XlmZGg63milLDm5R-1)
