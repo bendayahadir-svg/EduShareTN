@@ -1,4 +1,6 @@
 package edusharetn;
+// US1 - Création de profil
+// US2 - Système de réputation
 
 public class Utilisateur {
 
